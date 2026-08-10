@@ -1,0 +1,11 @@
+node_modules/
+dist/
+coverage/
+*.local
+.env
+.env.*.local
+dev.out.txt
+dev.err.txt
+Pasted text(1).txt
+
+~$*.md
